@@ -78,7 +78,6 @@ const frases = [
   "Te molestas facil, eres divertido y aveces es dificil entenderte.",
   "Eres una persona de Dios, fuerte, que sabe como manejar cualquier situación (estas un poquis cucha).".
   "Eres mala pero mala, pero demasiado icónica.",
-
 ];
 
 // Trae los elementos del HTML que tienen ese id
