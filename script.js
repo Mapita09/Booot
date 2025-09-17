@@ -76,7 +76,7 @@ const frases = [
   "Eres alguien muy fuerte, terco y tienes una alma joven y aventurera.",
   "Eres un gran sobreviviente, leal y un poco muy solitario.",
   "Te molestas facil, eres divertido y aveces es dificil entenderte.",
-  "Eres una persona de Dios, fuerte, que sabe como manejar cualquier situación (estas un poquis cucha).".
+  "Eres una persona de Dios, fuerte, que sabe como manejar cualquier situación (estas un poquis cucha).",
   "Eres mala pero mala, pero demasiado icónica.",
 ];
 
